@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/median-man/extended-session-node-sep-2019#readme",
   "dependencies": {
-    "dotenv": "^8.1.0"
+    "dotenv": "^8.1.0",
+    "node-spotify-api": "^1.1.1"
   }
 }
